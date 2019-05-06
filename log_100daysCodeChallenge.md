@@ -1,0 +1,20 @@
+
+## Log of Round 1 of #100DaysOfCode - 
+
+### Day #: May # 2019 
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+**Link to work:** 
+
+
+### Day 1: May 7 2019 
+
+**Today's Progress**: Spent time fixing CSS and figuring out how canvas works.
+
+**Thoughts:** Feels good to be back at coding.
+
+**Link to work:** [Pomodoro Clock App](https://github.com/Kallaway/pomodoro-clock/commit/f7590d1e8180bd63167b04494710f27d50b13890)
+
