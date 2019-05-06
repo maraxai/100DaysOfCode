@@ -10,11 +10,11 @@
 **Link to work:** 
 
 
-### Day 1: May 7 2019 
+### Day 0: May 7 2019 
 
-**Today's Progress**: Spent time fixing CSS and figuring out how canvas works.
+**Today's Progress**: Today I made the decision to take the challenge of logging 100 consecutive days of JavaScript coding for at least 1 hour per day. 
 
-**Thoughts:** Feels good to be back at coding.
+**Thoughts:** Excited about the outlook of my progress in the next 100 days.
 
-**Link to work:** [Pomodoro Clock App](https://github.com/Kallaway/pomodoro-clock/commit/f7590d1e8180bd63167b04494710f27d50b13890)
+**Link to work:** n/a
 
