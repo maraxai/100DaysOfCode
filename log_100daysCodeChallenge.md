@@ -18,3 +18,13 @@
 
 **Link to work:** n/a
 
+
+### Day 1: May 8 2019 
+
+**Today's Progress**: Today I start the challenge.
+
+**Thoughts:** 	I takes a lot of time to prepare for the actual coding. Setup of twitter, codepen,  GitHub log.
+				I dropped the idea to set up a codepen for every days exercises, it takes away from the coding. 
+				Too much time is spent for writing everything down.
+
+**Link to work:** https://codepen.io/mikeDietz/pen/WBbYmx
