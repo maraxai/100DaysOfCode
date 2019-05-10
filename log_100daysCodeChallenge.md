@@ -39,7 +39,7 @@
 **Link to work:** https://www.hackerrank.com/challenges/diagonal-difference/problem
 
 
-### Day 3: May 8 2019 
+### Day 3: May 9 2019 
 
 **Today's Progress**: Tried to solve HackerRand exercise, in vain. 
 
@@ -48,3 +48,13 @@
 		2nd problem: issue with reduce() / does not work in Chrome / reduce((a,b) => a - b);
 
 **Link to work:** 
+
+### Day 4: May 10 2019 
+
+**Today's Progress**: HackerRand exercise #2 of 30 Days Challenge and FreeCodeCamp. 
+
+**Thoughts:** 	feels unsatisfactory, 
+				lost time, due to bug in HackerRand Day Operator Exercise
+				
+**Link to work:** https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-algorithm-scripting/reverse-a-string
+					https://www.hackerrank.com/challenges/30-operators/problem
