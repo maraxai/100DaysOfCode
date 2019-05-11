@@ -58,3 +58,13 @@
 				
 **Link to work:** https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-algorithm-scripting/reverse-a-string
 					https://www.hackerrank.com/challenges/30-operators/problem
+
+### Day 4: May 10 2019 
+
+**Today's Progress**: HackerRand exercise #4 of 30 Days Challenge
+ 		  	FreeCodeCamp Factorialize (redo but happy that I was able to remember) 
+
+**Thoughts:** 	too much documenting, too little coding 
+				
+**Link to work:** 
+		  https://www.hackerrank.com/challenges/30-class-vs-instance/problem
