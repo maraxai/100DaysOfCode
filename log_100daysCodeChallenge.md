@@ -59,7 +59,7 @@
 **Link to work:** https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-algorithm-scripting/reverse-a-string
 					https://www.hackerrank.com/challenges/30-operators/problem
 
-### Day 4: May 10 2019 
+### Day 5: May 11 2019 
 
 **Today's Progress**: HackerRand exercise #4 of 30 Days Challenge
  		  	FreeCodeCamp Factorialize (redo but happy that I was able to remember) 
@@ -68,3 +68,14 @@
 				
 **Link to work:** 
 		  https://www.hackerrank.com/challenges/30-class-vs-instance/problem
+
+### Day 5: May 11 2019 
+
+**Today's Progress**: HackerRand exercise #5 of 30 Days Challenge
+ 		  	redo FreeCodeCamp Basic Algorithm Scripting 1-4 
+
+**Thoughts:** 	Repetition of exercises seems necessary, especially if several steps are involved
+		e.g. Find The Longest Word in a String: involves 4 steps, i.e. split, map, sort and pop
+				
+**Link to work:** 
+		  https://www.hackerrank.com/challenges/30-loops/problem
