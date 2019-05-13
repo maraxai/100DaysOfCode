@@ -69,7 +69,7 @@
 **Link to work:** 
 		  https://www.hackerrank.com/challenges/30-class-vs-instance/problem
 
-### Day 5: May 11 2019 
+### Day 6: May 12 2019 
 
 **Today's Progress**: HackerRand exercise #5 of 30 Days Challenge
  		  	redo FreeCodeCamp Basic Algorithm Scripting 1-4 
@@ -79,3 +79,11 @@
 				
 **Link to work:** 
 		  https://www.hackerrank.com/challenges/30-loops/problem
+
+### Day 7: May 13 2019 
+
+**Today's Progress**: mixed HackerRand exercises 
+
+**Thoughts:** 	Repetition of exercises seems good! 
+
+**Link to work:** 

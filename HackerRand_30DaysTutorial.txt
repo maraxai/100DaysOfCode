@@ -79,5 +79,5 @@ function main() {
 /////////////////
 // Day 6
 /////////////////
-
+mixed exercises
 
