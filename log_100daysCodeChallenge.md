@@ -87,3 +87,12 @@
 **Thoughts:** 	Repetition of exercises seems good! 
 
 **Link to work:** 
+
+
+### Day 8: May 14 2019 
+
+**Today's Progress**: HackerRand 30 Day Challenge Day 6 
+
+**Thoughts:** 	It took me approximately 4 hours to solve this problem, long way to go 
+
+**Link to work:** https://www.hackerrank.com/challenges/30-review-loop/problem

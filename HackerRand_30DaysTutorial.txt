@@ -81,3 +81,27 @@ function main() {
 /////////////////
 mixed exercises
 
+
+/////////////////
+// Day 7
+/////////////////
+https://www.hackerrank.com/challenges/30-review-loop/problem
+function processData(input) {
+    var container = [];
+    var arr = input.split(' ');
+    var N = arr.shift();
+    var even = [];
+    var odd = [];
+
+    for (var i = 0; i < N; i++) {
+        container.push(arr[i].split(''));
+    }
+
+    for (var j = 0; j < container.length; j++) {
+        container[j].map((letter, index) => index % 2 == 0 ? even.push(letter) : odd.push(letter));
+        console.log(even.join('') + ' ' + odd.join(''));
+        even.splice(0);
+        odd.splice(0);
+    }
+}
+
