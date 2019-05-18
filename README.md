@@ -1,3 +1,4 @@
 # activity log 100 Days of Code Challenge
-The log of my 100 Days Of Code 
+logs the daily activity and documents some of the code
+twitter: #100DaysOfCode 
 
