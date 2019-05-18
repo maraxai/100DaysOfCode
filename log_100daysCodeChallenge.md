@@ -96,3 +96,38 @@
 **Thoughts:** 	It took me approximately 4 hours to solve this problem, long way to go 
 
 **Link to work:** https://www.hackerrank.com/challenges/30-review-loop/problem
+
+
+### Day 9: May 15 2019 
+
+**Today's Progress**: A Classic: setTimeout() with IIFE
+
+**Thoughts:** 	I should make a list of the classics and actually redo and memorize them
+
+**Link to work:** 
+
+
+### Day 10: May 16 2019 
+
+**Today's Progress**: A Classic: Try - Throw - Catch - Finally
+
+**Thoughts:** 	I should make a list of the classics and actually redo and memorize them
+
+**Link to work:** 
+
+### Day 11: May 17 2019 
+
+**Today's Progress**: reduce() - count items in an array
+
+**Thoughts:** 	reduce is so versatile, I should spend a week just doing this one method
+
+**Link to work:** 
+
+
+### Day 12: May 18 2019 
+
+**Today's Progress**: review of yesterday's reduce(), count items in an array
+
+**Thoughts:** I need to review every day what I did the day before, otherwise I will not remember	
+
+**Link to work:** 
