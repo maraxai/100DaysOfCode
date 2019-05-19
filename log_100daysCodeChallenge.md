@@ -131,3 +131,12 @@
 **Thoughts:** I need to review every day what I did the day before, otherwise I will not remember	
 
 **Link to work:** 
+
+
+### Day 13: May 19 2019 
+
+**Today's Progress**: redo of n! refactoring function and Hackerrand 
+
+**Thoughts:** Had crashes in the browser when doing the increasing recursion (i++), with i-- it worked.	
+
+**Link to work:** https://www.hackerrank.com/challenges/30-recursion/problem
