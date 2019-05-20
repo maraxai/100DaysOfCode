@@ -140,3 +140,12 @@
 **Thoughts:** Had crashes in the browser when doing the increasing recursion (i++), with i-- it worked.	
 
 **Link to work:** https://www.hackerrank.com/challenges/30-recursion/problem
+
+
+### Day 14: May 20 2019 
+
+**Today's Progress**: Hackerrand 10Day Tutorial / Day 3 
+
+**Thoughts:** GREAT, I got an answer to my question in stackoverflow about the factorial n! and the crash
+
+**Link to work:** 

@@ -116,3 +116,28 @@ function factorial(n) {
     }
     return n;
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+/////////////////
+// 10Day Tutorial Day 3
+/////////////////
+5. Get the second largest number in an array and return this number. The array has multiple, same numbers, e.g. var arr + [1,2,1,2,3,2,4,3,6]
+function getSecondLargest(nums) {
+    // Complete the function
+var result = nums.filter((item, i) => nums.indexOf(item) === i);
+result.sort();
+var n = result.length;
+var Number = result[n-2];
+return Number;
+}
