@@ -149,3 +149,12 @@
 **Thoughts:** GREAT, I got an answer to my question in stackoverflow about the factorial n! and the crash
 
 **Link to work:** 
+
+
+### Day 15: May 21 2019 
+
+**Today's Progress**: Mixed Review and Repetition 
+
+**Thoughts:** I need to review daily, I need to repeat the code I learned the day before, especially when it is something new!
+
+**Link to work:** 
