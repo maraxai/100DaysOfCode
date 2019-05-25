@@ -158,3 +158,48 @@
 **Thoughts:** I need to review daily, I need to repeat the code I learned the day before, especially when it is something new!
 
 **Link to work:** 
+
+
+### Day 16: May 22 2019 
+
+**Today's Progress**: HackerRank 10Day Challenge Day 2 / arrays
+
+**Thoughts:** 
+
+**Link to work:** https://www.hackerrank.com/challenges/js10-arrays/problem
+
+
+### Day 17: May 23 2019 
+
+**Today's Progress**:  HackerRank 10Day Challenge Day 2 / switch
+
+**Thoughts:** took me 2 days to figure it out, need to redo this more often
+
+**Link to work:**  https://www.hackerrank.com/challenges/js10-switch/problem
+
+
+### Day 18: May 23 2019 
+
+**Today's Progress**: HackerRank 10Day Challenge Day 4 / classes
+
+**Thoughts:** I did this in the past but my memory was not good enough to be able to solve this challenge on my own.
+
+**Link to work:** https://www.hackerrank.com/challenges/js10-class/problem
+
+
+### Day 19: May 24 2019 
+
+**Today's Progress**: another exercise for Try, Throw, Catch and Finally
+
+**Thoughts:** repeat, repeat, repeat...
+
+**Link to work:** 
+
+
+### Day 20: May 25 2019 
+
+**Today's Progress**: worked on solution 10Days JS Day5 arrow functions
+
+**Thoughts:** couldn't figure out the solution, need to practice the way of thinking as proposed in a solution (HackerRand file)
+
+**Link to work:** https://www.hackerrank.com/challenges/js10-arrows/problem
