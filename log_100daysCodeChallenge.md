@@ -203,3 +203,12 @@
 **Thoughts:** couldn't figure out the solution, need to practice the way of thinking as proposed in a solution (HackerRand file)
 
 **Link to work:** https://www.hackerrank.com/challenges/js10-arrows/problem
+
+
+### Day 21: May 26 2019 
+
+**Today's Progress**: solved 10Days JS Day5 arrow function
+
+**Thoughts:** nice way of converting regular function into arrow function
+
+**Link to work:** https://www.hackerrank.com/challenges/js10-arrows/problem
