@@ -212,3 +212,21 @@
 **Thoughts:** nice way of converting regular function into arrow function
 
 **Link to work:** https://www.hackerrank.com/challenges/js10-arrows/problem
+
+
+### Day 22: May 27 2019 
+
+**Today's Progress**: RegExp HackerRank 10 Day Challenge Day 7
+
+**Thoughts:** a lot of information to remember, needs more days
+
+**Link to work:** 
+
+
+### Day 23: May 28 2019 
+
+**Today's Progress**: RegExp HackerRank 10 Day Challenge Day 7 and Tutorial regexone.com
+
+**Thoughts:** repetition and completion of exercises 
+
+**Link to work:** https://regexone.com/
