@@ -230,3 +230,12 @@
 **Thoughts:** repetition and completion of exercises 
 
 **Link to work:** https://regexone.com/
+
+
+### Day 24: May 28 2019 
+
+**Today's Progress**: finished RegExp tutorial regexone.com
+
+**Thoughts:** easy to understand, easy to solve, very easy but good 
+
+**Link to work:** https://regexone.com/
