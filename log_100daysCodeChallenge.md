@@ -239,3 +239,12 @@
 **Thoughts:** easy to understand, easy to solve, very easy but good 
 
 **Link to work:** https://regexone.com/
+
+
+### Day 25: May 28 2019 
+
+**Today's Progress**: redo of freeCodeCamp's 'Introduction to Basic Algorithm Scripting', exercises 1-5
+
+**Thoughts:** practice by repetition, I would like to solve 10 of these exercises within 1 hour 
+
+**Link to work:** https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-algorithm-scripting/
