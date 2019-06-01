@@ -178,7 +178,7 @@
 **Link to work:**  https://www.hackerrank.com/challenges/js10-switch/problem
 
 
-### Day 18: May 23 2019 
+### Day 18: May 24 2019 
 
 **Today's Progress**: HackerRank 10Day Challenge Day 4 / classes
 
@@ -187,7 +187,7 @@
 **Link to work:** https://www.hackerrank.com/challenges/js10-class/problem
 
 
-### Day 19: May 24 2019 
+### Day 19: May 25 2019 
 
 **Today's Progress**: another exercise for Try, Throw, Catch and Finally
 
@@ -196,7 +196,7 @@
 **Link to work:** 
 
 
-### Day 20: May 25 2019 
+### Day 20: May 26 2019 
 
 **Today's Progress**: worked on solution 10Days JS Day5 arrow functions
 
@@ -205,7 +205,7 @@
 **Link to work:** https://www.hackerrank.com/challenges/js10-arrows/problem
 
 
-### Day 21: May 26 2019 
+### Day 21: May 27 2019 
 
 **Today's Progress**: solved 10Days JS Day5 arrow function
 
@@ -214,7 +214,7 @@
 **Link to work:** https://www.hackerrank.com/challenges/js10-arrows/problem
 
 
-### Day 22: May 27 2019 
+### Day 22: May 28 2019 
 
 **Today's Progress**: RegExp HackerRank 10 Day Challenge Day 7
 
@@ -223,7 +223,7 @@
 **Link to work:** 
 
 
-### Day 23: May 28 2019 
+### Day 23: May 29 2019 
 
 **Today's Progress**: RegExp HackerRank 10 Day Challenge Day 7 and Tutorial regexone.com
 
@@ -232,7 +232,7 @@
 **Link to work:** https://regexone.com/
 
 
-### Day 24: May 28 2019 
+### Day 24: May 30 2019 
 
 **Today's Progress**: finished RegExp tutorial regexone.com
 
@@ -241,10 +241,19 @@
 **Link to work:** https://regexone.com/
 
 
-### Day 25: May 28 2019 
+### Day 25: May 31 2019 
 
 **Today's Progress**: redo of freeCodeCamp's 'Introduction to Basic Algorithm Scripting', exercises 1-5
 
 **Thoughts:** practice by repetition, I would like to solve 10 of these exercises within 1 hour 
+
+**Link to work:** https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-algorithm-scripting/
+
+
+### Day 27: June 1 2019 
+
+**Today's Progress**: redo of freeCodeCamp's 'Introduction to Basic Algorithm Scripting', exercises 6+7
+
+**Thoughts:** got reminded that a 'while' loop is different than a 'for' loop 
 
 **Link to work:** https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-algorithm-scripting/
