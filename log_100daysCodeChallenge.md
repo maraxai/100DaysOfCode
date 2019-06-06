@@ -257,3 +257,48 @@
 **Thoughts:** got reminded that a 'while' loop is different than a 'for' loop 
 
 **Link to work:** https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-algorithm-scripting/
+
+
+### Day 28: June 2 2019 
+
+**Today's Progress**: redo of freeCodeCamp's 'Introduction to Basic Algorithm Scripting'
+
+**Thoughts:** I will repeat this until I know it by heart! 
+
+**Link to work:** https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-algorithm-scripting/
+
+
+### Day 29: June 3 2019 
+
+**Today's Progress**: redo of freeCodeCamp's 'Introduction to Basic Algorithm Scripting'
+
+**Thoughts:** I will repeat this until I know it by heart! 
+
+**Link to work:** https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-algorithm-scripting/
+
+
+### Day 30: June 4 2019 
+
+**Today's Progress**: redo of freeCodeCamp's 'Introduction to Basic Algorithm Scripting'
+
+**Thoughts:** I will repeat this until I know it by heart! 
+
+**Link to work:** https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-algorithm-scripting/
+
+
+### Day 31: June 5 2019 
+
+**Today's Progress**: redo of freeCodeCamp's 'Introduction to Basic Algorithm Scripting'
+
+**Thoughts:** I will repeat this until I know it by heart! 
+
+**Link to work:** https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-algorithm-scripting/
+
+
+### Day 32: June 6 2019 
+
+**Today's Progress**: redo of freeCodeCamp's 'Introduction to Basic Algorithm Scripting'
+
+**Thoughts:** I will repeat this until I know it by heart! 
+
+**Link to work:** https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-algorithm-scripting/
