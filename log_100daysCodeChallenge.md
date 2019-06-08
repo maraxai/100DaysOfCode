@@ -302,3 +302,22 @@
 **Thoughts:** I will repeat this until I know it by heart! 
 
 **Link to work:** https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-algorithm-scripting/
+
+
+
+### Day 33: June 7 2019 
+
+**Today's Progress**: redo of freeCodeCamp's 'Introduction to Basic Algorithm Scripting'
+
+**Thoughts:** I will repeat this until I know it by heart! 
+
+**Link to work:** https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-algorithm-scripting/
+
+
+### Day 34: June 8 2019 
+
+**Today's Progress**: reducer(), JS MDN: 1) sum all values of an array, 2) sum values in an object array, 3) flatten an array of arrays, 4) counting instances of values in an object
+
+**Thoughts:** I was not able to follow: 5) grouping objects by a property 
+
+**Link to work:** https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/reduce
