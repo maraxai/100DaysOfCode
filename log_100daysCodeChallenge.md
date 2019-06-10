@@ -321,3 +321,21 @@
 **Thoughts:** I was not able to follow: 5) grouping objects by a property 
 
 **Link to work:** https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/reduce
+
+
+### Day 35: June 9 2019 
+
+**Today's Progress**: reducer(), JS MDN: repeat 1) to 5) 
+
+**Thoughts:**  5) grouping objects by a property needs more practice
+
+**Link to work:** https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/reduce
+
+
+### Day 36: June 10 2019 
+
+**Today's Progress**: remove duplicates with reduce() and filter()
+
+**Thoughts:** practice, don't focus on 'how long it takes'!
+
+**Link to work:** 
