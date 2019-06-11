@@ -339,3 +339,13 @@
 **Thoughts:** practice, don't focus on 'how long it takes'!
 
 **Link to work:** 
+
+
+
+### Day 37: June 11 2019 
+
+**Today's Progress**: redo of all reduce() applications 
+
+**Thoughts:** practice, don't focus on 'how long it takes'!
+
+**Link to work:** https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/reduce
