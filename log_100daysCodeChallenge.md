@@ -349,3 +349,13 @@
 **Thoughts:** practice, don't focus on 'how long it takes'!
 
 **Link to work:** https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/reduce
+
+
+
+### Day 38: June 12 2019 
+
+**Today's Progress**: freeCodeCamp Intermediate Algorithm Scripting 'Sum All Numbers in a Range', 'Diff Two Arrays' and 'Seek and Destroy' 
+
+**Thoughts:** step by step, day by day
+
+**Link to work:** https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting
