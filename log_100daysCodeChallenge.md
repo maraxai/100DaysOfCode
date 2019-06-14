@@ -359,3 +359,21 @@
 **Thoughts:** step by step, day by day
 
 **Link to work:** https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting
+
+
+
+### Day 39: June 12 2019 
+
+**Today's Progress**: tried to solve two excercises of freeCodeCamp Intermediate Algorithm Scripting without success
+
+**Thoughts:** was not able to solve it, low level of concentration (lack of sleep?)
+
+
+
+### Day 40: June 12 2019 
+
+**Today's Progress**: couldn't finish 'Latin Pig' freeCodeCamp Intermediate Algorithm Scripting, I need to continue tomorrow
+
+**Thoughts:** there are a lot of steps involved and special cases, e.g. 'cluster of consonants'
+
+**Link to work:** https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/pig-latin/
