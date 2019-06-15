@@ -362,7 +362,7 @@
 
 
 
-### Day 39: June 12 2019 
+### Day 39: June 13 2019 
 
 **Today's Progress**: tried to solve two excercises of freeCodeCamp Intermediate Algorithm Scripting without success
 
@@ -370,10 +370,19 @@
 
 
 
-### Day 40: June 12 2019 
+### Day 40: June 14 2019 
 
 **Today's Progress**: couldn't finish 'Latin Pig' freeCodeCamp Intermediate Algorithm Scripting, I need to continue tomorrow
 
 **Thoughts:** there are a lot of steps involved and special cases, e.g. 'cluster of consonants'
 
 **Link to work:** https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/pig-latin/
+
+
+### Day 41: June 15 2019 
+
+**Today's Progress**: a little bit of Regular Expressions and freeCodeCamp Basic Algorithm
+
+**Thoughts:** I would like to get through the 10 exercises of freeCodeCamp's basic algorithm in one session, today (again), I got stuck on no. 4
+
+**Link to work:** https://guide.freecodecamp.org/certifications/javascript-algorithms-and-data-structures/basic-algorithm-scripting
