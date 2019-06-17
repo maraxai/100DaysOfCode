@@ -379,10 +379,15 @@
 **Link to work:** https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/pig-latin/
 
 
-### Day 41: June 15 2019 
+////////////////
+// June 16 2019 SKIP
+///////////////
 
-**Today's Progress**: a little bit of Regular Expressions and freeCodeCamp Basic Algorithm
 
-**Thoughts:** I would like to get through the 10 exercises of freeCodeCamp's basic algorithm in one session, today (again), I got stuck on no. 4
+### Day 42: June 17 2019 
 
-**Link to work:** https://guide.freecodecamp.org/certifications/javascript-algorithms-and-data-structures/basic-algorithm-scripting
+**Today's Progress**: freeCodeCamp topic objects
+
+**Thoughts:** basics are still full of surprises
+
+**Link to work:** https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-data-structures
