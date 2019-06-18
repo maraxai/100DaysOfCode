@@ -391,3 +391,13 @@
 **Thoughts:** basics are still full of surprises
 
 **Link to work:** https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-data-structures
+
+
+
+### Day 43: June 18 2019 
+
+**Today's Progress**: freeCodeCamp Basic Algorithm Scripting: 'Confirm the Ending', 'Repeat a String Repeat a String', 'Truncate a String', 'Finders Keepers'
+
+**Thoughts:** repetitions are necessary for me
+
+**Link to work:** https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-algorithm-scripting
