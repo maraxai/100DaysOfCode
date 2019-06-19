@@ -401,3 +401,12 @@
 **Thoughts:** repetitions are necessary for me
 
 **Link to work:** https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-algorithm-scripting
+
+
+### Day 44: June 18 2019 
+
+**Today's Progress**: freeCodeCamp Basic Algorithm Scripting: got stuck on 'Title Case a Sentence'
+
+**Thoughts:** need to continue on this one tomorrow
+
+**Link to work:** https://guide.freecodecamp.org/certifications/javascript-algorithms-and-data-structures/basic-algorithm-scripting/title-case-a-sentence/
