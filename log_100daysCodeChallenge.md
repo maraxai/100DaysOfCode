@@ -403,10 +403,19 @@
 **Link to work:** https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-algorithm-scripting
 
 
-### Day 44: June 18 2019 
+### Day 44: June 19 2019 
 
 **Today's Progress**: freeCodeCamp Basic Algorithm Scripting: got stuck on 'Title Case a Sentence'
 
 **Thoughts:** need to continue on this one tomorrow
 
 **Link to work:** https://guide.freecodecamp.org/certifications/javascript-algorithms-and-data-structures/basic-algorithm-scripting/title-case-a-sentence/
+
+
+### Day 45: June 20 2019 
+
+**Today's Progress**: freeCodeCamp Basic Algorithm 'TITLE CASE A SENTENCE' + 'Slice and Splice', 'Falsy Bouncer', 'Where do I Belong', 'Mutations'
+
+**Thoughts:** once I am through all the basic algorithm exercises, I will redo them all again with the goal to solve them all in one session
+
+**Link to work:** https://guide.freecodecamp.org/certifications/javascript-algorithms-and-data-structures/basic-algorithm-scripting
