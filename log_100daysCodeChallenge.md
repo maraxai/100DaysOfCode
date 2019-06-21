@@ -419,3 +419,13 @@
 **Thoughts:** once I am through all the basic algorithm exercises, I will redo them all again with the goal to solve them all in one session
 
 **Link to work:** https://guide.freecodecamp.org/certifications/javascript-algorithms-and-data-structures/basic-algorithm-scripting
+
+
+
+### Day 46: June 21 2019 
+
+**Today's Progress**: freeCodeCamp Basic Algorithm 'Chunky Monkey' + the first 5 exercises
+
+**Thoughts:** finally I solved all basic exercises, there were always two exercises too difficult for me to solve
+
+**Link to work:** https://guide.freecodecamp.org/certifications/javascript-algorithms-and-data-structures/basic-algorithm-scripting
