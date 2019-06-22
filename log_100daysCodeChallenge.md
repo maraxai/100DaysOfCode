@@ -429,3 +429,14 @@
 **Thoughts:** finally I solved all basic exercises, there were always two exercises too difficult for me to solve
 
 **Link to work:** https://guide.freecodecamp.org/certifications/javascript-algorithms-and-data-structures/basic-algorithm-scripting
+
+
+
+
+### Day 47: June 22 2019 
+
+**Today's Progress**: freeCodeCamp Basic Algorithm exercises 6 - 7
+
+**Thoughts:** too much distraction, I could not really solve anything today
+
+**Link to work:** https://guide.freecodecamp.org/certifications/javascript-algorithms-and-data-structures/basic-algorithm-scripting
