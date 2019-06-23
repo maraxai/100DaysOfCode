@@ -440,3 +440,13 @@
 **Thoughts:** too much distraction, I could not really solve anything today
 
 **Link to work:** https://guide.freecodecamp.org/certifications/javascript-algorithms-and-data-structures/basic-algorithm-scripting
+
+
+
+### Day 48: June 23 2019 
+
+**Today's Progress**: freeCodeCamp Basic Algorithm exercises 'Truncate a String', 'Finders Keepers', 'Boo who', 'Title Case a Sentence', 'Slice and Splice', 'Falsy Bouncer' and 'Where Do I Belong'
+
+**Thoughts:** probably impossible to do all exercises in one session
+
+**Link to work:** https://guide.freecodecamp.org/certifications/javascript-algorithms-and-data-structures/basic-algorithm-scripting
