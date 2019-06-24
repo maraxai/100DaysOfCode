@@ -450,3 +450,13 @@
 **Thoughts:** probably impossible to do all exercises in one session
 
 **Link to work:** https://guide.freecodecamp.org/certifications/javascript-algorithms-and-data-structures/basic-algorithm-scripting
+
+
+
+### Day 49: June 24 2019 
+
+**Today's Progress**: freeCodeCamp Basic Algorithm exercises 'Mutations' and 'Chunky Monkey'
+
+**Thoughts:** got stuck again on an exercise that I solved before due to tiny errors that still have a great impact
+
+**Link to work:** https://guide.freecodecamp.org/certifications/javascript-algorithms-and-data-structures/basic-algorithm-scripting
