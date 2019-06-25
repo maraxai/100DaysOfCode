@@ -460,3 +460,13 @@
 **Thoughts:** got stuck again on an exercise that I solved before due to tiny errors that still have a great impact
 
 **Link to work:** https://guide.freecodecamp.org/certifications/javascript-algorithms-and-data-structures/basic-algorithm-scripting
+
+
+### Day 50: June 25 2019 
+
+**Today's Progress**: freeCodeCamp Basic Algorithm exercises 14 out of 16 solved in one session!
+
+**Thoughts:** Yes, repetition shows results.
+
+**Link to work:** https://guide.freecodecamp.org/certifications/javascript-algorithms-and-data-structures/basic-algorithm-scripting
+
