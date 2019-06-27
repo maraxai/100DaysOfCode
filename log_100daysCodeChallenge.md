@@ -479,3 +479,13 @@
 **Thoughts:** Yes, repetition shows results.
 
 **Link to work:** https://guide.freecodecamp.org/certifications/javascript-algorithms-and-data-structures/basic-algorithm-scripting
+
+
+### Day 52: June 27 2019 
+
+**Today's Progress**: freeCodeCamp Basic Algorithm exercises 1 - 16 solved in one session!
+
+**Thoughts:** Micro-goal achieved! 
+
+**Link to work:** https://guide.freecodecamp.org/certifications/javascript-algorithms-and-data-structures/basic-algorithm-scripting
+
