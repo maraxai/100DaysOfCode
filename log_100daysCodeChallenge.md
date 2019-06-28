@@ -489,3 +489,12 @@
 
 **Link to work:** https://guide.freecodecamp.org/certifications/javascript-algorithms-and-data-structures/basic-algorithm-scripting
 
+
+### Day 53: June 28 2019 
+
+**Today's Progress**: freeCodeCamp 'algorithms-and-data-structures-projects' Palindrome
+
+**Thoughts:** This feels like an achievement. 
+
+**Link to work:** https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/javascript-algorithms-and-data-structures-projects/palindrome-checker
+
