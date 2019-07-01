@@ -508,3 +508,18 @@
 
 **Link to work:** https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/javascript-algorithms-and-data-structures-projects/roman-numeral-converter
 
+
+///////////////
+/// skipped a day June 30, 2019
+//////////////
+
+
+
+### Day 55: July 1 2019 
+
+**Today's Progress**: Close to solution, chrome spits out results, fcc does not the entry; freeCodeCamp 'algorithms-and-data-structures-projects' Roman Numerals
+
+**Thoughts:** gathered ideas, scribbled code, SO MUCH FUN!! 
+
+**Link to work:** https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/javascript-algorithms-and-data-structures-projects/roman-numeral-converter
+
