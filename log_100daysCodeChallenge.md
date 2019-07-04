@@ -490,7 +490,7 @@
 **Link to work:** https://guide.freecodecamp.org/certifications/javascript-algorithms-and-data-structures/basic-algorithm-scripting
 
 
-### Day 53: June 28 2019 
+### Day 54: June 28 2019 
 
 **Today's Progress**: freeCodeCamp 'algorithms-and-data-structures-projects' Palindrome
 
@@ -498,3 +498,32 @@
 
 **Link to work:** https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/javascript-algorithms-and-data-structures-projects/palindrome-checker
 
+
+
+### Day 55: June 28 2019 
+
+**Today's Progress**: freeCodeCamp 'algorithms-and-data-structures-projects' Roman Literals
+
+**Thoughts:** This feels like an achievement. 
+
+**Link to work:** https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/javascript-algorithms-and-data-structures-projects/roman-numeral-converter
+
+
+
+### Day 56: Juli 3 2019 
+
+**Today's Progress**: freeCodeCamp 'algorithms-and-data-structures-projects' Caesar's Cipher
+
+**Thoughts:** almost solved it, just have to add the !, . and ? 
+
+**Link to work:** https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/javascript-algorithms-and-data-structures-projects/caesars-cipher
+
+
+
+### Day 57: Juli 4 2019 
+
+**Today's Progress**: freeCodeCamp 'algorithms-and-data-structures-projects' Caesar's Cipher
+
+**Thoughts:** This feels like an achievement. 
+
+**Link to work:** https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/javascript-algorithms-and-data-structures-projects/caesars-cipher
