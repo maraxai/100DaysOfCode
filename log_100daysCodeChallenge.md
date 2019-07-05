@@ -531,3 +531,13 @@
 **Thoughts:** This feels like an achievement. 
 
 **Link to work:** https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/javascript-algorithms-and-data-structures-projects/caesars-cipher
+
+
+
+### Day 58: Juli 5 2019 
+
+**Today's Progress**: I solved freeCodeCamp 'algorithms-and-data-structures-projects' Caesar's Cipher
+
+**Thoughts:** This feels like an achievement. 
+
+**Link to work:** https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/javascript-algorithms-and-data-structures-projects/caesars-cipher
