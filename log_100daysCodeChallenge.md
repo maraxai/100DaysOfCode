@@ -534,20 +534,31 @@
 
 
 
-### Day 58: Juli 5 2019 
-
-**Today's Progress**: I solved freeCodeCamp 'algorithms-and-data-structures-projects' Caesar's Cipher
-
-**Thoughts:** This feels like an achievement. 
-
-**Link to work:** https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/javascript-algorithms-and-data-structures-projects/caesars-cipher
-
-
-
-### Day 59: Juli 6 2019 
+### Day 58: Juli 6 2019 
 
 **Today's Progress**: I solved freeCodeCamp 'algorithms-and-data-structures-projects' Telephone Number Validator
 
 **Thoughts:** This feels like an achievement. 
 
 **Link to work:** https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/javascript-algorithms-and-data-structures-projects/telephone-number-validator
+
+
+
+### Day 59: Juli 7 2019 
+
+**Today's Progress**: I solved freeCodeCamp 'algorithms-and-data-structures-projects' Cash Register
+
+**Thoughts:** This feels like an achievement. 
+
+**Link to work:** https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/javascript-algorithms-and-data-structures-projects/cash-register
+
+
+
+### Day 60: Juli 8 2019 
+
+**Today's Progress**: I solved freeCodeCamp 'algorithms-and-data-structures-projects' Cash Register
+
+**Thoughts:** This feels like an achievement. 
+
+**Link to work:** https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/javascript-algorithms-and-data-structures-projects/cash-register
+
