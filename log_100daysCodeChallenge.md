@@ -582,3 +582,13 @@
 
 **Link to work:** https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/javascript-algorithms-and-data-structures-projects/cash-register
 
+
+
+### Day 63: Juli 9 2019 
+
+**Today's Progress**: worked on freeCodeCamp 'algorithms-and-data-structures-projects' Cash Register
+
+**Thoughts:** I am getting frustrated 
+
+**Link to work:** https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/javascript-algorithms-and-data-structures-projects/cash-register
+
