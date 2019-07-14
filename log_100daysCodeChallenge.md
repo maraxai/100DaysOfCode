@@ -603,3 +603,22 @@
 **Link to work:** https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/javascript-algorithms-and-data-structures-projects/cash-register
 
 
+
+### Day 65: Juli 13 2019 
+
+**Today's Progress**: couldn't do JS, did some basic HTML instead
+
+**Thoughts:** my mind was so worn out from doing CF course work that I could not concentrate any more at the end of the day
+
+**Link to work:** 
+
+
+
+### Day 66: Juli 14 2019 
+
+**Today's Progress**: tried to solve fcc intermediate algorithm problem, in vain
+
+**Thoughts:** spend 1 1/2 hour on this one problem, and I could not solve it...very frustrating
+
+**Link to work:** https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/wherefore-art-thou
+
