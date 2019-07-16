@@ -622,3 +622,23 @@
 
 **Link to work:** https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/wherefore-art-thou
 
+
+
+### Day 67: Juli 15 2019 
+
+**Today's Progress**: tried to solve fcc intermediate algorithm problem Wherefore Art Thou, in vain
+
+**Thoughts:** this is difficult
+
+**Link to work:** https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/wherefore-art-thou
+
+
+
+### Day 68: Juli 16 2019 
+
+**Today's Progress**: solved fcc intermediate algorithm problem 'Wherefore Art Thou' and 'Spinal Tap Case'
+
+**Thoughts:** this is difficult
+
+**Link to work:** https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/wherefore-art-thou
+                  https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/spinal-tap-case
