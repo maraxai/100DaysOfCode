@@ -642,3 +642,12 @@
 
 **Link to work:** https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/wherefore-art-thou
                   https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/spinal-tap-case
+
+
+### Day 69: Juli 17 2019 
+
+**Today's Progress**: started fcc intermediate algorithm problem 'Pig Latin', case 'first vowel at the end of the word' works in Chrome but is not accepted by fcc
+
+**Thoughts:** I like regular expressions
+
+**Link to work:** https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/pig-latin
