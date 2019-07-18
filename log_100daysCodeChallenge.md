@@ -651,3 +651,13 @@
 **Thoughts:** I like regular expressions
 
 **Link to work:** https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/pig-latin
+
+
+
+### Day 70: Juli 18 2019 
+
+**Today's Progress**: solved fcc intermediate algorithm problem 'Pig Latin', started 'Search and Replace'
+
+**Thoughts:** feels good to solve a problem
+
+**Link to work:** https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/search-and-replace
