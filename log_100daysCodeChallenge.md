@@ -664,11 +664,23 @@
 
 
 
-### Day 71: Juli 18 2019 
+### Day 71: Juli 19 2019 
 
 **Today's Progress**: solved fcc intermediate algorithm problem 'DNA Pairing'
 
 **Thoughts:** feels good to solve a problem
 
 **Link to work:** https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/dna-pairing
+
+
+
+### Day 72: Juli 20 2019 
+
+**Today's Progress**: solved fcc intermediate algorithm problem 'Missing Letters'
+
+**Thoughts:** fun!
+
+**Link to work:** https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/missing-letters
+
+
 
