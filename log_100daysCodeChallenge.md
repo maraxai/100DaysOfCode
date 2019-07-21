@@ -684,3 +684,16 @@
 
 
 
+### Day 73: Juli 21 2019 
+
+**Today's Progress**: started fcc intermediate algorithm problem 'Sorted Union' / still need to figure out how to concat a differing number of arrays
+
+**Thoughts:** Learned about the 'arguments' object, it contains all arguments of a function. In this exercise needed to get the individual arguments. 
+
+**Link to work:** https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/sorted-union
+
+
+
+
+
+
