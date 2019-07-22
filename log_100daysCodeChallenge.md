@@ -694,6 +694,14 @@
 
 
 
+### Day 74: Juli 22 2019 
+
+**Today's Progress**: continued fcc intermediate algorithm problem 'Sorted Union' / still need to figure out how to concat a differing number of arrays
+
+**Thoughts:** no comment 
+
+**Link to work:** https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/sorted-union
+
 
 
 
