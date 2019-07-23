@@ -704,4 +704,12 @@
 
 
 
+### Day 75: Juli 23 2019 
+
+**Today's Progress**: finished fcc intermediate algorithm problem 'Sorted Union' and started HTML entities 
+
+**Thoughts:** no comment 
+
+**Link to work:** https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/sorted-union
+
 
