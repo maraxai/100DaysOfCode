@@ -713,3 +713,13 @@
 **Link to work:** https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/sorted-union
 
 
+
+### Day 76: Juli 24 2019 
+
+**Today's Progress**: finished fcc intermediate algorithm problem 'HTML Entities', 3 solutions 
+
+**Thoughts:** I like the 3rd solution with the object lookup the best
+
+**Link to work:** https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/convert-html-entities
+
+
