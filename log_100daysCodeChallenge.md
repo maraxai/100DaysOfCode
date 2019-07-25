@@ -723,3 +723,11 @@
 **Link to work:** https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/convert-html-entities
 
 
+
+### Day 77: Juli 25 2019 
+
+**Today's Progress**: finished fcc intermediate algorithm problem 'Fibonacci Numbers' 
+
+**Thoughts:** :-)
+
+**Link to work:** https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/sum-all-odd-fibonacci-numbers
