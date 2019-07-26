@@ -731,3 +731,13 @@
 **Thoughts:** :-)
 
 **Link to work:** https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/sum-all-odd-fibonacci-numbers
+
+
+
+### Day 78: Juli 26 2019 
+
+**Today's Progress**: started fcc intermediate algorithm problem 'Sum All Primes' 
+
+**Thoughts:** ...hmmmm...
+
+**Link to work:** https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/sum-all-primes
