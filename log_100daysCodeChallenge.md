@@ -741,3 +741,13 @@
 **Thoughts:** ...hmmmm...
 
 **Link to work:** https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/sum-all-primes
+
+
+
+### Day 79: Juli 27 2019 
+
+**Today's Progress**: started fcc intermediate algorithm problem 'Binary Agents' 
+
+**Thoughts:** great stuff
+
+**Link to work:** https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/binary-agents
