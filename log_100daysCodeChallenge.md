@@ -751,3 +751,13 @@
 **Thoughts:** great stuff
 
 **Link to work:** https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/binary-agents
+
+
+
+### Day 80: Juli 28 2019 
+
+**Today's Progress**: finished fcc intermediate algorithm problem 'Binary Agents' 
+
+**Thoughts:** there are some steps involved that I needed to figure out, that's why it took a little bit longer
+
+**Link to work:** https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/binary-agents
