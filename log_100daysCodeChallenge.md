@@ -761,3 +761,13 @@
 **Thoughts:** there are some steps involved that I needed to figure out, that's why it took a little bit longer
 
 **Link to work:** https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/binary-agents
+
+
+
+### Day 81: Juli 29 2019 
+
+**Today's Progress**: finished fcc intermediate algorithm problem 'Everything Be True' 
+
+**Thoughts:** could not figure it out on my own to fullfill all cases, solution very simple and very good
+
+**Link to work:** https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/everything-be-true
