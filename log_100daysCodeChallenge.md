@@ -764,10 +764,10 @@
 
 
 
-### Day 81: Juli 29 2019 
+### Day 82: Juli 30 2019 
 
-**Today's Progress**: finished fcc intermediate algorithm problem 'Everything Be True' 
+**Today's Progress**: started fcc intermediate algorithm problem 'Arguments Optional' 
 
 **Thoughts:** could not figure it out on my own to fullfill all cases, solution very simple and very good
 
-**Link to work:** https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/everything-be-true
+**Link to work:** https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/arguments-optional
