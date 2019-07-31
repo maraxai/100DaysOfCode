@@ -771,3 +771,13 @@
 **Thoughts:** could not figure it out on my own to fullfill all cases, solution very simple and very good
 
 **Link to work:** https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/arguments-optional
+
+
+
+### Day 83: Juli 31 2019 
+
+**Today's Progress**: started fcc intermediate algorithm problem 'Smallest Common Multiple' 
+
+**Thoughts:** could not finish the one from yesterday and neither the one from today
+
+**Link to work:** https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/smallest-common-multiple
