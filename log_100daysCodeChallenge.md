@@ -781,3 +781,13 @@
 **Thoughts:** could not finish the one from yesterday and neither the one from today
 
 **Link to work:** https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/smallest-common-multiple
+
+
+
+### Day 84: August 1 2019 
+
+**Today's Progress**: redo of JS OOP, apply() and call()
+
+**Thoughts:** 
+
+**Link to work:** 
