@@ -786,8 +786,18 @@
 
 ### Day 84: August 1 2019 
 
-**Today's Progress**: redo of JS OOP, apply() and call()
+**Today's Progress**: redo of JS OOP (1-4), apply() and call()
 
 **Thoughts:** 
 
-**Link to work:** 
+**Link to work:** https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/object-oriented-programming/make-code-more-reusable-with-the-this-keyword
+
+
+
+### Day 85: August 2 2019 
+
+**Today's Progress**: redo of JS OOP (5-12)
+
+**Thoughts:** work through the entire section of OOP and then try to solve the intermediate exercise 'Make a Person'
+
+**Link to work:** https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/object-oriented-programming/understand-the-constructor-property
