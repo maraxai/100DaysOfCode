@@ -801,3 +801,13 @@
 **Thoughts:** work through the entire section of OOP and then try to solve the intermediate exercise 'Make a Person'
 
 **Link to work:** https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/object-oriented-programming/understand-the-constructor-property
+
+
+
+### Day 86: August 3 2019 
+
+**Today's Progress**: redo of JS OOP (13-end)
+
+**Thoughts:** I worked through the entire section of OOP. Tomorrow I will try to solve the intermediate exercise 'Make a Person'. 
+
+**Link to work:** https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/object-oriented-programming/understand-the-constructor-property
