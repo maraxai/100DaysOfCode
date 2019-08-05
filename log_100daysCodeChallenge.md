@@ -811,3 +811,18 @@
 **Thoughts:** I worked through the entire section of OOP. Tomorrow I will try to solve the intermediate exercise 'Make a Person'. 
 
 **Link to work:** https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/object-oriented-programming/understand-the-constructor-property
+
+
+
+///////////////////////
+// August 4 2019 day off
+//////////////////////
+
+
+### Day 87: August 5 2019 
+
+**Today's Progress**: redo of basic  algorithm
+
+**Thoughts:** very tired, tried to solve 'Make a Person', in vain, switched to fcc's basic algorithms to do at least some coding
+
+**Link to work:** https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-algorithm-scripting/
