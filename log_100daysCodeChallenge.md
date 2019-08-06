@@ -826,3 +826,13 @@
 **Thoughts:** very tired, tried to solve 'Make a Person', in vain, switched to fcc's basic algorithms to do at least some coding
 
 **Link to work:** https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-algorithm-scripting/
+
+
+
+### Day 88: August 6 2019 
+
+**Today's Progress**: no progress at all, I redid 'Repeat a String' and could not figure out why this exercise only works with a 'while' loop and not a 'for' loop
+
+**Thoughts:** even the very simplest exercises still carry some mystery in themselves
+
+**Link to work:** https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-algorithm-scripting/repeat-a-string-repeat-a-string/
