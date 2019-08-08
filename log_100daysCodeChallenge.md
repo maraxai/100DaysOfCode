@@ -836,3 +836,16 @@
 **Thoughts:** even the very simplest exercises still carry some mystery in themselves
 
 **Link to work:** https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-algorithm-scripting/repeat-a-string-repeat-a-string/
+
+
+
+### Day 89: August 7 2019 
+
+**Today's Progress**: replace()
+
+**Thoughts:** I have done this exercise before and could not rememeber 'replace()' any more as the solution to it
+
+**Link to work:** https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-algorithm-scripting/title-case-a-sentence
+
+
+
