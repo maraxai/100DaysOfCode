@@ -849,10 +849,29 @@
 
 
 
-### Day 90: August 7 2019 
+### Day 90: August 8 2019 
 
 **Today's Progress**: redo of basics, 'Repeat A String' to 'Title Case a Sentence'
 
 **Thoughts:** I have done this exercise before and could not rememeber 'replace()' any more as the solution to it
 
 **Link to work:** https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-algorithm-scripting/title-case-a-sentence
+
+
+
+### Day 91: August 10 2019 
+
+**Today's Progress**: redo of basics
+
+**Thoughts:** repeat
+
+**Link to work:** https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-algorithm-scripting
+
+
+### Day 92: August 11 2019 
+
+**Today's Progress**: redo of basics
+
+**Thoughts:** repeat
+
+**Link to work:** https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-algorithm-scripting
