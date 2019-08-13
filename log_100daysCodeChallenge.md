@@ -837,9 +837,11 @@
 
 **Link to work:** https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-algorithm-scripting/repeat-a-string-repeat-a-string/
 
+///////////////////////
+// August 7 2019 day off
+//////////////////////
 
-
-### Day 89: August 7 2019 
+### Day 89: August 8 2019 
 
 **Today's Progress**: replace()
 
@@ -849,7 +851,7 @@
 
 
 
-### Day 90: August 8 2019 
+### Day 90: August 10 2019 
 
 **Today's Progress**: redo of basics, 'Repeat A String' to 'Title Case a Sentence'
 
@@ -859,7 +861,7 @@
 
 
 
-### Day 91: August 10 2019 
+### Day 91: August 11 2019 
 
 **Today's Progress**: redo of basics
 
@@ -868,10 +870,20 @@
 **Link to work:** https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-algorithm-scripting
 
 
-### Day 92: August 11 2019 
+### Day 92: August 12 2019 
 
 **Today's Progress**: redo of basics
 
 **Thoughts:** repeat
+
+**Link to work:** https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-algorithm-scripting
+
+
+
+### Day 93: August 13 2019 
+
+**Today's Progress**: redo of basics
+
+**Thoughts:** repeat, repeat, repeat 
 
 **Link to work:** https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-algorithm-scripting
