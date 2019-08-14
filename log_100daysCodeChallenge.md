@@ -887,3 +887,13 @@
 **Thoughts:** repeat, repeat, repeat 
 
 **Link to work:** https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-algorithm-scripting
+
+
+
+### Day 94: August 14 2019 
+
+**Today's Progress**: redo of basics
+
+**Thoughts:** repeat, repeat, repeat 
+
+**Link to work:** https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-algorithm-scripting
