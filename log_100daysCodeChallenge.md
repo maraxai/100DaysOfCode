@@ -900,10 +900,41 @@
 
 
 
-### Day 95: August 14 2019 
+### Day 95: August 15 2019 
 
 **Today's Progress**: redo of basics, tried to find different ways of solving a problem
 
 **Thoughts:** repeat, repeat, repeat 
 
 **Link to work:** https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-algorithm-scripting
+
+
+
+### Day 96: August 16 2019 
+
+**Today's Progress**: redo of basics, tried to find different ways of solving a problem
+
+**Thoughts:** repeat, repeat, repeat 
+
+**Link to work:** https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-algorithm-scripting
+
+
+
+### Day 97: August 17 2019 
+
+**Today's Progress**: solved all 16 fcc's basic alogrithm exercises in 1 session (65 minutes)
+
+**Thoughts:** repetition is good (at least for me)
+
+**Link to work:** https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-algorithm-scripting
+
+
+
+### Day 98: August 18 2019 
+
+**Today's Progress**: started with fcc's intermediate algorithm scripting, 'Sum All Numbers In A Range' and 'Diff Two Arrays' 
+
+**Thoughts:** 
+
+**Link to work:** https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting
+
