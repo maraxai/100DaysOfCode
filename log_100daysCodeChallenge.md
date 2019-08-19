@@ -938,3 +938,15 @@
 
 **Link to work:** https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting
 
+
+
+### Day 99: August 19 2019 
+
+**Today's Progress**: review of JS objects 
+
+**Thoughts:** 
+
+**Link to work:** https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript
+
+
+
