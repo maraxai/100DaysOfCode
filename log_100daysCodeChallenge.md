@@ -949,4 +949,16 @@
 **Link to work:** https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript
 
 
+### Day 100: August 20 2019 
+
+**Today's Progress**: review of JS objects 
+
+**Thoughts:** I need to work for the next days mainly with objects, again
+
+**Link to work:** https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript
+
+
+### Challenge Completed ###
+This was fun, sometimes very uplifting, sometimes very frustrating. It helped me to stay focused and disciplined and continuous work on a specific topic.
+
 
